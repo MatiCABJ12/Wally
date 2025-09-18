@@ -11,4 +11,5 @@ if (array [i].indexOf("w")=== 0){
     for(let i =0;i <array.length;i++){
         if (array [i].includes("ll")){
             console.log (i+") " + array[i])}}
-          console.log(array)  
+          console.log(array)
+          
